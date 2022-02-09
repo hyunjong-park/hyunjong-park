@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @hyunjong-park
-- 👀 I’m interested in data science, mlops, devops, data engineering
-- 🌱 I’m currently learning data science in general
+# Hi, I'm Hyunjong Park
 
-<!---
-hyunjong-park/hyunjong-park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me
+I'm a data engineer at Corca, Inc. located in Seoul, Korea.
